@@ -2,6 +2,8 @@
 
 A Flask backend API that allows users to record their daily meals, track their energy levels, and manage their personal meal logs.
 
+**Project status:** Early in development; endpoints and responses may change.
+
 ## Technologies
 - Python 3.15.2
 - Flask
